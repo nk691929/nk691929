@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Noshad 👋
 
-<!--
-**nk691929/nk691929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Flutter developer and tech enthusiast.
 
-Here are some ideas to get you started:
+## 🔭 Projects
+- [Chat App](https://github.com/nk691929/simple_chat_app_in_flutter) – A Flutter Firebase chat app
+- [Portfolio Website](https://github.com/nk691929/my_portfolio_react) – My personal website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills
+- Flutter & Dart
+- Firebase
+- React.js
+- Git & GitHub
+
+## 📫 Contact Me
+- Email: nk691929@example.com
+- WhatsApp: [Your Profile](+923154700650)
