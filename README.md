@@ -6,6 +6,7 @@
 <h3 align="center">Flutter Developer | Firebase Enthusiast | Tech Explorer</h3>
 
 ---
+![Animated GIF](https://miro.medium.com/v2/resize:fit:750/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)
 
 ## 🌐 Connect with me
 <p align="center">
