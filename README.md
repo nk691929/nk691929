@@ -38,9 +38,10 @@
 ---
 
 ## 🔭 Projects
-- [Chat App](https://github.com/nk691929/chatapp) – Real-time Flutter chat app with Firebase
-- [Portfolio Website](https://github.com/nk691929/portfolio) – My personal portfolio website
-- [Cattle Management](https://github.com/nk691929/cattlewebsite) – Web app in Flutter for cattle tracking
+- [Collaborative Inventory](https://github.com/nk691929/inventory-offline-sync-flutter) – Offline-first Flutter inventory app with role-based access control, a Hive-backed sync queue, optimistic stock updates with automatic rollback, and Last-Writer-Wins conflict resolution
+- [Lead CRM](https://github.com/nk691929/crm_app_n8n_flutter) – Realtime Flutter admin dashboard for lead management, backed by Supabase (Postgres, Auth, Realtime, Row Level Security) and n8n-automated follow-ups
+- [E-commerce Clean Architecture](https://github.com/nk691929/ecommerce-flutter-clean-arch) – Flutter e-commerce app with infinite-scroll pagination, debounced search, category filtering, and a REST API backend
+- [ApplyLog](https://github.com/nk691929/applylog-flutter) – Flutter job application tracker with Firebase Auth, Firestore realtime data, and scheduled local notifications
 
 ---
 
